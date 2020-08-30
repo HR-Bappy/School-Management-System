@@ -1,5 +1,9 @@
 # HR-Bappy.school-management-system
-School Management System Project
+
+
+Project name : School Management System       
+
+Language : JAVA
 
 ![](images/s1.PNG)
 
